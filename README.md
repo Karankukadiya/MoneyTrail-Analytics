@@ -5,8 +5,7 @@ data for a simulated digital payments platform. Built as an end-to-end BI
 portfolio project: data modeling, DAX measures, and interactive reporting
 across 5 report pages.
 
-![Dashboard Overview](./screenshots/01_overview.png)
-*(replace with your own screenshot)*
+![Dashboard Overview](./screenshots/Overview.jpg)
 
 ---
 
