@@ -155,11 +155,9 @@ All pages use button-based page navigation and a synced Year slicer.
 │   ├── DATA_DICTIONARY.md
 │   ├── DAX_MEASURES.md
 │   ├── INSIGHTS.md
-│   ├── RECOMMENDATIONS.md
-│   └── PROJECT_LOG.md             # Full build history / context log
+│   └── RECOMMENDATIONS.md          
 ├── screenshots/                    # Dashboard page screenshots
-├── generate_data.py                # Synthetic dataset generator
-└── MoneyTrail_Dashboard.pbix       # Power BI file
+└── Dashboard.pbix       # Power BI file
 ```
 
 ---
