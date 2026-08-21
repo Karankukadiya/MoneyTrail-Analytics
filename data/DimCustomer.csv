@@ -1,0 +1,801 @@
+CustomerID,CustomerName,Gender,Age,City,State,Region,JoinDate,Segment
+CUST00001,Advik Maharaj,Male,38,Mumbai,Maharashtra,West,2020-06-20,Retail
+CUST00002,Charan Chahal,Male,64,Surat,Gujarat,West,2022-07-17,Premium
+CUST00003,Alexander Chander,Male,48,Bhopal,Madhya Pradesh,Central,2020-04-24,Retail
+CUST00004,Hardik Saini,Male,35,Lucknow,Uttar Pradesh,North,2020-04-27,Retail
+CUST00005,Aarush Dutta,Male,33,Indore,Madhya Pradesh,Central,2023-03-10,Premium
+CUST00006,Maya Dugal,Female,49,Chandigarh,Punjab,North,2020-04-16,Retail
+CUST00007,Charan Chanda,Male,65,Jaipur,Rajasthan,North,2021-04-12,Retail
+CUST00008,Pooja Lalla,Female,34,Delhi,Delhi,North,2023-11-04,Corporate
+CUST00009,Diya Radhakrishnan,Female,26,Surat,Gujarat,West,2019-06-22,Retail
+CUST00010,Radhika Handa,Female,59,Kochi,Kerala,South,2023-03-24,Retail
+CUST00011,Ishaan Mann,Male,55,Bhubaneswar,Odisha,East,2024-11-28,Retail
+CUST00012,Daksha Rai,Female,56,Ahmedabad,Gujarat,West,2020-09-01,Retail
+CUST00013,Gautami Prabhakar,Female,33,Bhopal,Madhya Pradesh,Central,2021-02-17,Premium
+CUST00014,Balendra Garg,Male,39,Chandigarh,Punjab,North,2022-03-16,Corporate
+CUST00015,Finn Shere,Male,45,Surat,Gujarat,West,2021-04-11,Retail
+CUST00016,Omaja Bhalla,Female,44,Jaipur,Rajasthan,North,2020-05-16,Retail
+CUST00017,Nisha Rattan,Female,59,Ahmedabad,Gujarat,West,2020-08-09,Retail
+CUST00018,Nakul Kala,Male,50,Jaipur,Rajasthan,North,2022-12-07,Retail
+CUST00019,Veer Dhar,Male,24,Hyderabad,Telangana,South,2020-08-03,Retail
+CUST00020,Karan Sangha,Male,46,Hyderabad,Telangana,South,2024-05-21,Retail
+CUST00021,Pratyush Kanda,Male,41,Bhopal,Madhya Pradesh,Central,2024-12-25,Retail
+CUST00022,Yashoda Tak,Female,62,Kolkata,West Bengal,East,2019-07-19,Retail
+CUST00023,Dayamai Dua,Female,36,Delhi,Delhi,North,2022-10-06,Premium
+CUST00024,Bhavika Rajan,Female,48,Bhopal,Madhya Pradesh,Central,2021-04-16,Premium
+CUST00025,Zarna Krishnamurthy,Female,35,Kochi,Kerala,South,2024-10-28,Corporate
+CUST00026,Dakshesh Yadav,Male,52,Nagpur,Maharashtra,West,2023-07-04,Retail
+CUST00027,Daksh Memon,Male,30,Surat,Gujarat,West,2021-08-10,Retail
+CUST00028,Aadhya Lall,Female,25,Raipur,Chhattisgarh,Central,2024-10-30,Retail
+CUST00029,Yashica Cherian,Female,37,Nagpur,Maharashtra,West,2024-03-22,Corporate
+CUST00030,Zehaan Issac,Male,64,Surat,Gujarat,West,2019-12-01,Premium
+CUST00031,Zilmil Acharya,Female,28,Hyderabad,Telangana,South,2022-08-05,Retail
+CUST00032,Aditya Choudhury,Male,21,Bhubaneswar,Odisha,East,2024-07-28,Corporate
+CUST00033,Kashvi Bhardwaj,Female,32,Nagpur,Maharashtra,West,2020-06-11,Retail
+CUST00034,Brijesh Sunder,Male,61,Chennai,Tamil Nadu,South,2023-11-23,Retail
+CUST00035,Devansh Soman,Male,44,Delhi,Delhi,North,2024-09-05,Premium
+CUST00036,Kevin Wable,Male,41,Raipur,Chhattisgarh,Central,2024-03-26,Retail
+CUST00037,Hitesh Zacharia,Male,40,Kochi,Kerala,South,2023-07-13,Retail
+CUST00038,Nachiket Rastogi,Male,26,Bhopal,Madhya Pradesh,Central,2024-12-20,Retail
+CUST00039,Urvashi Varughese,Female,55,Ahmedabad,Gujarat,West,2021-09-16,Premium
+CUST00040,Isaiah Bhatt,Male,56,Guwahati,Assam,East,2021-01-10,Retail
+CUST00041,Januja Amble,Female,55,Lucknow,Uttar Pradesh,North,2019-06-05,Premium
+CUST00042,Ishwar Bir,Male,46,Chennai,Tamil Nadu,South,2024-06-06,Corporate
+CUST00043,Bimala Varkey,Female,54,Bhubaneswar,Odisha,East,2020-06-05,Retail
+CUST00044,Hredhaan Zacharia,Male,25,Chandigarh,Punjab,North,2019-10-17,Retail
+CUST00045,Jairaj Solanki,Male,35,Bhopal,Madhya Pradesh,Central,2023-11-05,Retail
+CUST00046,Champak Chatterjee,Male,25,Chandigarh,Punjab,North,2022-12-14,Premium
+CUST00047,Udyati Roy,Female,53,Ahmedabad,Gujarat,West,2021-10-20,Retail
+CUST00048,Chavvi Bhat,Female,55,Lucknow,Uttar Pradesh,North,2021-06-01,Retail
+CUST00049,Darika Kothari,Female,51,Chandigarh,Punjab,North,2020-02-24,Premium
+CUST00050,Ekaraj Sami,Male,27,Surat,Gujarat,West,2020-02-07,Retail
+CUST00051,Kritika Borra,Female,47,Patna,Bihar,East,2021-08-28,Retail
+CUST00052,Aryan Zachariah,Male,24,Surat,Gujarat,West,2024-01-06,Retail
+CUST00053,Kashish Ganesan,Female,36,Surat,Gujarat,West,2021-06-09,Retail
+CUST00054,Jalsa Rattan,Female,48,Delhi,Delhi,North,2024-05-31,Retail
+CUST00055,Sachi Agate,Female,25,Chandigarh,Punjab,North,2024-11-28,Retail
+CUST00056,Utkarsh Mangal,Male,62,Pune,Maharashtra,West,2021-07-15,Corporate
+CUST00057,Faras Gupta,Male,36,Ahmedabad,Gujarat,West,2020-10-12,Retail
+CUST00058,Bhavani Murthy,Female,34,Guwahati,Assam,East,2019-05-06,Premium
+CUST00059,Zayan Wali,Male,45,Jaipur,Rajasthan,North,2019-12-11,Retail
+CUST00060,Idika Biswas,Female,50,Bengaluru,Karnataka,South,2022-07-27,Retail
+CUST00061,Tamanna Dar,Female,33,Delhi,Delhi,North,2024-08-25,Retail
+CUST00062,Anmol Bumb,Male,55,Bhopal,Madhya Pradesh,Central,2021-07-07,Retail
+CUST00063,Leena Jayaraman,Female,24,Pune,Maharashtra,West,2023-01-07,Retail
+CUST00064,Jagdish Lanka,Male,53,Pune,Maharashtra,West,2021-05-17,Retail
+CUST00065,Veer Mutti,Male,59,Ahmedabad,Gujarat,West,2024-07-28,Retail
+CUST00066,Aayush Shanker,Male,28,Kolkata,West Bengal,East,2022-09-22,Corporate
+CUST00067,Balhaar Yogi,Male,59,Bhopal,Madhya Pradesh,Central,2020-04-12,Retail
+CUST00068,Dominic Palla,Male,63,Patna,Bihar,East,2024-04-13,Retail
+CUST00069,Reva Mane,Female,34,Bengaluru,Karnataka,South,2019-12-12,Retail
+CUST00070,Zarna Anand,Female,37,Chandigarh,Punjab,North,2023-01-03,Retail
+CUST00071,Damini Desai,Female,41,Bhubaneswar,Odisha,East,2020-08-02,Corporate
+CUST00072,Faras Magar,Male,50,Mumbai,Maharashtra,West,2020-09-09,Retail
+CUST00073,Onveer Jani,Male,55,Ahmedabad,Gujarat,West,2023-02-15,Retail
+CUST00074,Yashawini Suresh,Female,43,Delhi,Delhi,North,2020-07-04,Premium
+CUST00075,Chakradhar Sampath,Male,39,Kochi,Kerala,South,2023-12-23,Retail
+CUST00076,Aadhya Nath,Female,62,Raipur,Chhattisgarh,Central,2023-08-17,Retail
+CUST00077,Gaurika Sathe,Female,29,Surat,Gujarat,West,2022-04-23,Retail
+CUST00078,Aayush Choudhury,Male,30,Indore,Madhya Pradesh,Central,2019-06-14,Retail
+CUST00079,Andrew Pingle,Male,34,Hyderabad,Telangana,South,2022-06-30,Retail
+CUST00080,Upasna Datta,Female,52,Nagpur,Maharashtra,West,2019-04-02,Retail
+CUST00081,Anmol Parmar,Male,61,Ahmedabad,Gujarat,West,2020-04-05,Retail
+CUST00082,Dalaja Pandya,Female,21,Pune,Maharashtra,West,2023-09-06,Retail
+CUST00083,Faras Khalsa,Male,31,Bengaluru,Karnataka,South,2024-03-09,Premium
+CUST00084,Triveni Bakshi,Female,21,Indore,Madhya Pradesh,Central,2020-01-28,Retail
+CUST00085,Samesh Kothari,Male,23,Indore,Madhya Pradesh,Central,2020-08-07,Premium
+CUST00086,Rayaan Barad,Male,29,Patna,Bihar,East,2024-02-25,Retail
+CUST00087,Irya Sharma,Female,43,Pune,Maharashtra,West,2021-02-05,Retail
+CUST00088,Isaac Bajwa,Male,43,Surat,Gujarat,West,2022-12-17,Premium
+CUST00089,Omya Mallick,Female,30,Raipur,Chhattisgarh,Central,2024-03-08,Corporate
+CUST00090,Parth Upadhyay,Male,32,Jaipur,Rajasthan,North,2021-05-25,Premium
+CUST00091,Akshay D’Alia,Male,42,Jaipur,Rajasthan,North,2024-04-05,Premium
+CUST00092,Hemal Lanka,Female,38,Chandigarh,Punjab,North,2019-03-25,Retail
+CUST00093,Orinder Murthy,Male,23,Kolkata,West Bengal,East,2021-08-14,Premium
+CUST00094,Reyansh Gupta,Male,50,Lucknow,Uttar Pradesh,North,2020-07-12,Retail
+CUST00095,Aadi Venkatesh,Male,22,Chandigarh,Punjab,North,2024-07-20,Retail
+CUST00096,Rajata Sankar,Female,38,Hyderabad,Telangana,South,2019-06-03,Premium
+CUST00097,Nirja Dash,Female,62,Kochi,Kerala,South,2023-04-26,Retail
+CUST00098,Yashica More,Female,28,Mumbai,Maharashtra,West,2023-01-01,Premium
+CUST00099,Tamanna Merchant,Female,58,Jaipur,Rajasthan,North,2022-04-29,Corporate
+CUST00100,Ucchal Raghavan,Female,27,Pune,Maharashtra,West,2023-01-24,Retail
+CUST00101,Nidhi Ravi,Female,48,Hyderabad,Telangana,South,2022-04-15,Retail
+CUST00102,Max Mangat,Male,57,Kolkata,West Bengal,East,2020-04-05,Retail
+CUST00103,Viraj Sathe,Male,21,Patna,Bihar,East,2021-08-26,Retail
+CUST00104,Warjas Gara,Male,48,Kochi,Kerala,South,2022-12-14,Retail
+CUST00105,Yasti Nayak,Female,41,Raipur,Chhattisgarh,Central,2019-07-24,Retail
+CUST00106,Mohammed Kar,Male,53,Chennai,Tamil Nadu,South,2023-11-03,Retail
+CUST00107,Amaira Batra,Female,46,Hyderabad,Telangana,South,2020-06-20,Retail
+CUST00108,Balhaar Shah,Male,47,Lucknow,Uttar Pradesh,North,2021-06-27,Retail
+CUST00109,Sanaya Talwar,Female,60,Jaipur,Rajasthan,North,2021-05-25,Retail
+CUST00110,Aahana Chhabra,Female,21,Indore,Madhya Pradesh,Central,2023-09-02,Retail
+CUST00111,Gaurang Vasa,Male,58,Patna,Bihar,East,2021-10-14,Retail
+CUST00112,Divya Shan,Female,49,Bhubaneswar,Odisha,East,2019-10-20,Retail
+CUST00113,Nathan Savant,Male,51,Nagpur,Maharashtra,West,2022-09-04,Premium
+CUST00114,Udant Dutt,Male,39,Ahmedabad,Gujarat,West,2023-06-18,Retail
+CUST00115,Varenya Lad,Female,36,Ahmedabad,Gujarat,West,2023-07-06,Retail
+CUST00116,Xavier Khare,Male,30,Lucknow,Uttar Pradesh,North,2020-08-24,Retail
+CUST00117,Luke Keer,Male,60,Guwahati,Assam,East,2020-08-18,Premium
+CUST00118,Banjeet Devi,Male,47,Bhubaneswar,Odisha,East,2019-11-27,Premium
+CUST00119,Faraj Kala,Male,52,Kolkata,West Bengal,East,2019-05-21,Retail
+CUST00120,Noah Shukla,Male,27,Mumbai,Maharashtra,West,2021-06-29,Premium
+CUST00121,Shivansh Ramachandran,Male,65,Jaipur,Rajasthan,North,2024-06-05,Retail
+CUST00122,Ranveer Sood,Male,36,Indore,Madhya Pradesh,Central,2019-01-13,Premium
+CUST00123,Manthan Ramakrishnan,Male,29,Bhubaneswar,Odisha,East,2024-02-13,Premium
+CUST00124,Januja Sura,Female,60,Bhubaneswar,Odisha,East,2020-04-25,Premium
+CUST00125,Watika Balakrishnan,Female,49,Indore,Madhya Pradesh,Central,2021-05-01,Premium
+CUST00126,Gayathri Sibal,Female,37,Bhubaneswar,Odisha,East,2024-07-07,Premium
+CUST00127,Shravya Bala,Female,52,Nagpur,Maharashtra,West,2019-07-03,Retail
+CUST00128,Ekanta Shenoy,Female,25,Bhubaneswar,Odisha,East,2020-02-03,Premium
+CUST00129,Ranveer Narang,Male,42,Bengaluru,Karnataka,South,2020-04-08,Retail
+CUST00130,Om Raghavan,Male,30,Delhi,Delhi,North,2020-09-01,Retail
+CUST00131,Jonathan Bumb,Male,25,Lucknow,Uttar Pradesh,North,2021-10-27,Retail
+CUST00132,Pushti Kapur,Female,50,Indore,Madhya Pradesh,Central,2022-11-25,Retail
+CUST00133,Alexander Kota,Male,45,Patna,Bihar,East,2020-03-12,Premium
+CUST00134,Faraj Khare,Male,45,Bhopal,Madhya Pradesh,Central,2019-10-04,Retail
+CUST00135,Janani Shroff,Female,45,Chennai,Tamil Nadu,South,2023-03-13,Premium
+CUST00136,Geetika Contractor,Female,55,Indore,Madhya Pradesh,Central,2023-09-01,Premium
+CUST00137,Nachiket Chokshi,Male,35,Guwahati,Assam,East,2022-06-21,Retail
+CUST00138,Riya Ranganathan,Female,45,Mumbai,Maharashtra,West,2024-08-24,Retail
+CUST00139,Bishakha Kibe,Female,50,Jaipur,Rajasthan,North,2019-08-12,Premium
+CUST00140,Darpan Barman,Male,58,Kolkata,West Bengal,East,2021-01-30,Retail
+CUST00141,Qasim Biswas,Male,62,Ahmedabad,Gujarat,West,2022-01-13,Retail
+CUST00142,Abha Salvi,Female,24,Jaipur,Rajasthan,North,2023-12-07,Retail
+CUST00143,Upma Pathak,Female,50,Lucknow,Uttar Pradesh,North,2022-10-24,Retail
+CUST00144,Ganga Saran,Female,47,Bengaluru,Karnataka,South,2020-01-21,Retail
+CUST00145,Wyatt Shroff,Male,22,Guwahati,Assam,East,2021-08-12,Premium
+CUST00146,Neel Korpal,Male,35,Kochi,Kerala,South,2023-12-26,Retail
+CUST00147,Liam Seshadri,Male,36,Mumbai,Maharashtra,West,2020-06-18,Retail
+CUST00148,Ranveer Nayar,Male,30,Raipur,Chhattisgarh,Central,2019-03-04,Retail
+CUST00149,Hemani Sura,Female,57,Surat,Gujarat,West,2020-04-09,Corporate
+CUST00150,Panini Mammen,Female,44,Bengaluru,Karnataka,South,2024-04-12,Retail
+CUST00151,Abdul Varughese,Male,40,Jaipur,Rajasthan,North,2024-09-08,Retail
+CUST00152,Jai Ray,Male,57,Chennai,Tamil Nadu,South,2021-12-06,Retail
+CUST00153,Vyanjana Swaminathan,Female,33,Kolkata,West Bengal,East,2021-09-08,Retail
+CUST00154,Chakradhar Menon,Male,65,Surat,Gujarat,West,2020-04-30,Premium
+CUST00155,Michael Pillay,Male,23,Bhopal,Madhya Pradesh,Central,2021-11-02,Retail
+CUST00156,Unnati Narayanan,Female,25,Kochi,Kerala,South,2021-02-09,Retail
+CUST00157,Lopa Mohan,Female,47,Mumbai,Maharashtra,West,2020-07-04,Premium
+CUST00158,Gopal Mutti,Male,44,Patna,Bihar,East,2019-09-19,Retail
+CUST00159,Inaya Kalita,Female,48,Delhi,Delhi,North,2023-06-07,Retail
+CUST00160,Zaitra Mandal,Female,55,Raipur,Chhattisgarh,Central,2024-11-18,Premium
+CUST00161,Neelima Karan,Female,58,Patna,Bihar,East,2021-03-01,Retail
+CUST00162,Abhimanyu Walla,Male,38,Ahmedabad,Gujarat,West,2019-10-05,Premium
+CUST00163,Avi Master,Male,57,Bhubaneswar,Odisha,East,2023-03-09,Retail
+CUST00164,Xalak Chauhan,Female,22,Hyderabad,Telangana,South,2024-03-27,Retail
+CUST00165,Vrinda Srinivas,Female,52,Jaipur,Rajasthan,North,2021-08-23,Retail
+CUST00166,Ati Krishnan,Female,38,Hyderabad,Telangana,South,2024-08-23,Premium
+CUST00167,Deepa Bhattacharyya,Female,21,Indore,Madhya Pradesh,Central,2021-05-27,Retail
+CUST00168,Avi Doshi,Male,36,Ahmedabad,Gujarat,West,2019-11-23,Premium
+CUST00169,Chaman Kothari,Female,36,Indore,Madhya Pradesh,Central,2019-09-17,Retail
+CUST00170,Jeevika Virk,Female,22,Bhubaneswar,Odisha,East,2021-04-13,Retail
+CUST00171,Manthan Sanghvi,Male,65,Kolkata,West Bengal,East,2020-10-31,Retail
+CUST00172,Chavvi Johal,Female,56,Guwahati,Assam,East,2022-10-02,Retail
+CUST00173,Chaitaly Dugar,Female,42,Indore,Madhya Pradesh,Central,2020-06-09,Retail
+CUST00174,Gaurangi Agate,Female,40,Bengaluru,Karnataka,South,2021-06-14,Retail
+CUST00175,Madhav Bali,Male,41,Lucknow,Uttar Pradesh,North,2020-05-22,Retail
+CUST00176,Utkarsh Bobal,Male,34,Lucknow,Uttar Pradesh,North,2023-02-15,Premium
+CUST00177,Ira Sandal,Female,54,Bhopal,Madhya Pradesh,Central,2019-09-09,Retail
+CUST00178,Falan Lata,Male,39,Lucknow,Uttar Pradesh,North,2023-12-17,Retail
+CUST00179,Ayushman Gandhi,Male,21,Chennai,Tamil Nadu,South,2023-10-03,Premium
+CUST00180,Theodore Dash,Male,23,Bengaluru,Karnataka,South,2021-10-23,Corporate
+CUST00181,Tamanna Magar,Female,61,Delhi,Delhi,North,2022-01-01,Premium
+CUST00182,Urvashi Buch,Female,21,Surat,Gujarat,West,2022-08-03,Retail
+CUST00183,Ojasvi Krishna,Female,49,Guwahati,Assam,East,2019-02-26,Retail
+CUST00184,Advaith Luthra,Male,51,Bengaluru,Karnataka,South,2022-06-16,Retail
+CUST00185,Wahab Venkataraman,Male,52,Kolkata,West Bengal,East,2022-11-28,Retail
+CUST00186,Gautam Sarin,Male,30,Delhi,Delhi,North,2022-10-22,Premium
+CUST00187,Chandani Singhal,Female,36,Ahmedabad,Gujarat,West,2021-02-01,Retail
+CUST00188,Oeshi Cheema,Female,59,Raipur,Chhattisgarh,Central,2024-02-23,Premium
+CUST00189,Samesh Tandon,Male,45,Nagpur,Maharashtra,West,2020-09-23,Retail
+CUST00190,Anita Sha,Female,58,Chennai,Tamil Nadu,South,2019-07-12,Corporate
+CUST00191,Ojasvi D’Alia,Female,60,Bhopal,Madhya Pradesh,Central,2024-10-26,Retail
+CUST00192,Aadi Shere,Male,61,Lucknow,Uttar Pradesh,North,2021-06-24,Retail
+CUST00193,Pratyush Tara,Male,36,Jaipur,Rajasthan,North,2022-10-02,Retail
+CUST00194,Harsh Loke,Male,21,Jaipur,Rajasthan,North,2022-04-18,Retail
+CUST00195,Urvashi Sundaram,Female,23,Chennai,Tamil Nadu,South,2019-09-24,Retail
+CUST00196,Gauri Mukhopadhyay,Female,25,Bhubaneswar,Odisha,East,2022-04-21,Retail
+CUST00197,Charita Kar,Female,63,Bhopal,Madhya Pradesh,Central,2024-12-14,Premium
+CUST00198,Vihaan Dalal,Male,28,Patna,Bihar,East,2022-11-20,Retail
+CUST00199,Zaid Manne,Male,30,Bengaluru,Karnataka,South,2022-01-19,Retail
+CUST00200,Sarthak Subramanian,Male,59,Chennai,Tamil Nadu,South,2024-11-17,Premium
+CUST00201,Vasatika Dhillon,Female,28,Bhubaneswar,Odisha,East,2021-04-20,Retail
+CUST00202,Bhavya Majumdar,Female,38,Kolkata,West Bengal,East,2023-08-20,Retail
+CUST00203,Panini Tripathi,Female,26,Bhubaneswar,Odisha,East,2020-08-08,Retail
+CUST00204,Megha Misra,Female,59,Hyderabad,Telangana,South,2024-01-09,Retail
+CUST00205,Falan Sekhon,Male,64,Chandigarh,Punjab,North,2022-03-26,Premium
+CUST00206,Ojas Purohit,Male,57,Bengaluru,Karnataka,South,2021-09-24,Retail
+CUST00207,Girindra Khare,Male,54,Guwahati,Assam,East,2022-06-06,Retail
+CUST00208,Tripti Bassi,Female,58,Jaipur,Rajasthan,North,2020-11-28,Retail
+CUST00209,Sai Raju,Female,51,Ahmedabad,Gujarat,West,2024-12-05,Retail
+CUST00210,Yachana Bansal,Female,63,Hyderabad,Telangana,South,2019-10-04,Retail
+CUST00211,Chandresh Sarraf,Male,47,Hyderabad,Telangana,South,2019-08-07,Retail
+CUST00212,Advika Dhawan,Female,56,Kolkata,West Bengal,East,2021-06-17,Retail
+CUST00213,Baljiwan Singh,Male,37,Hyderabad,Telangana,South,2023-09-09,Retail
+CUST00214,Pallavi Rao,Female,21,Nagpur,Maharashtra,West,2022-11-24,Retail
+CUST00215,Sachi Nadig,Female,24,Patna,Bihar,East,2022-10-05,Retail
+CUST00216,Anita Biswas,Female,52,Raipur,Chhattisgarh,Central,2020-05-29,Retail
+CUST00217,Ishaan Chana,Male,38,Lucknow,Uttar Pradesh,North,2021-08-08,Retail
+CUST00218,Daksha Sawhney,Female,65,Bhubaneswar,Odisha,East,2019-12-31,Retail
+CUST00219,Akshay Batra,Male,36,Raipur,Chhattisgarh,Central,2020-12-11,Premium
+CUST00220,Nandini Parmer,Female,21,Indore,Madhya Pradesh,Central,2021-04-01,Retail
+CUST00221,Jason Wali,Male,28,Chandigarh,Punjab,North,2021-06-21,Retail
+CUST00222,Frederick Gill,Male,52,Delhi,Delhi,North,2019-06-23,Corporate
+CUST00223,Kavya Tank,Female,38,Nagpur,Maharashtra,West,2024-06-23,Retail
+CUST00224,Kala Shenoy,Female,36,Guwahati,Assam,East,2022-10-29,Retail
+CUST00225,Joshua Andra,Male,33,Kolkata,West Bengal,East,2024-05-23,Corporate
+CUST00226,Maanas Dugar,Male,38,Ahmedabad,Gujarat,West,2019-06-11,Premium
+CUST00227,Netra Samra,Female,53,Hyderabad,Telangana,South,2023-02-21,Retail
+CUST00228,Matthew Issac,Male,40,Chennai,Tamil Nadu,South,2024-12-29,Premium
+CUST00229,Damyanti Khalsa,Female,49,Delhi,Delhi,North,2021-04-15,Retail
+CUST00230,Neelima Merchant,Female,56,Hyderabad,Telangana,South,2019-02-18,Premium
+CUST00231,Mahika Anand,Female,41,Bhubaneswar,Odisha,East,2022-05-24,Premium
+CUST00232,Yuvraj Mangat,Male,45,Bhopal,Madhya Pradesh,Central,2023-08-27,Retail
+CUST00233,Qushi Kanda,Female,41,Pune,Maharashtra,West,2022-10-26,Premium
+CUST00234,Ekantika Chatterjee,Female,63,Kolkata,West Bengal,East,2024-06-02,Premium
+CUST00235,Mohammed Sastry,Male,23,Guwahati,Assam,East,2019-03-15,Retail
+CUST00236,Ekaja Chana,Female,49,Surat,Gujarat,West,2024-06-15,Retail
+CUST00237,Triya Gill,Female,30,Mumbai,Maharashtra,West,2020-03-15,Retail
+CUST00238,Zashil Mahajan,Male,51,Ahmedabad,Gujarat,West,2023-12-25,Premium
+CUST00239,Warda Merchant,Female,60,Hyderabad,Telangana,South,2023-06-24,Retail
+CUST00240,Dakshesh Sidhu,Male,64,Hyderabad,Telangana,South,2024-10-10,Premium
+CUST00241,Jeevika Ranganathan,Female,61,Hyderabad,Telangana,South,2024-10-20,Premium
+CUST00242,Chandani Rana,Female,23,Indore,Madhya Pradesh,Central,2019-01-31,Retail
+CUST00243,Utkarsh Pillay,Male,35,Chennai,Tamil Nadu,South,2023-01-14,Premium
+CUST00244,Sai Prabhu,Female,61,Surat,Gujarat,West,2019-08-26,Premium
+CUST00245,Warinder Bakshi,Male,31,Bhubaneswar,Odisha,East,2022-09-19,Retail
+CUST00246,Indrajit Bhatnagar,Male,41,Pune,Maharashtra,West,2022-10-24,Premium
+CUST00247,Nidhi Rege,Female,44,Kochi,Kerala,South,2019-09-13,Retail
+CUST00248,Anirudh Modi,Male,47,Nagpur,Maharashtra,West,2024-12-22,Retail
+CUST00249,Chanakya Keer,Male,32,Jaipur,Rajasthan,North,2024-04-27,Retail
+CUST00250,Sara Setty,Female,64,Raipur,Chhattisgarh,Central,2021-03-23,Retail
+CUST00251,Faras Sachdeva,Male,50,Chandigarh,Punjab,North,2022-12-05,Retail
+CUST00252,Tanvi Mammen,Female,63,Bengaluru,Karnataka,South,2019-03-13,Retail
+CUST00253,Janani Sawhney,Female,64,Chennai,Tamil Nadu,South,2021-09-01,Retail
+CUST00254,Pratyush Chaudhary,Male,43,Bhubaneswar,Odisha,East,2024-11-19,Corporate
+CUST00255,Rachita Bhat,Female,65,Patna,Bihar,East,2021-05-22,Retail
+CUST00256,Divya Sha,Female,45,Lucknow,Uttar Pradesh,North,2019-07-20,Premium
+CUST00257,Advaith Bedi,Male,45,Chandigarh,Punjab,North,2023-09-20,Retail
+CUST00258,Edhitha Jha,Female,22,Chennai,Tamil Nadu,South,2019-05-31,Corporate
+CUST00259,Janaki Kaul,Female,21,Bengaluru,Karnataka,South,2020-12-20,Retail
+CUST00260,Aarav Malhotra,Male,52,Raipur,Chhattisgarh,Central,2024-02-24,Premium
+CUST00261,Eiravati Zachariah,Female,59,Chandigarh,Punjab,North,2020-07-03,Premium
+CUST00262,Christopher Bal,Male,60,Lucknow,Uttar Pradesh,North,2019-10-16,Retail
+CUST00263,Jagat Naik,Male,61,Surat,Gujarat,West,2019-02-04,Retail
+CUST00264,Ati Date,Female,23,Bhubaneswar,Odisha,East,2023-06-14,Retail
+CUST00265,Azad Soni,Male,39,Ahmedabad,Gujarat,West,2021-09-09,Retail
+CUST00266,Yashvi Chopra,Female,33,Jaipur,Rajasthan,North,2021-09-17,Retail
+CUST00267,Anya Verma,Female,53,Nagpur,Maharashtra,West,2020-10-22,Premium
+CUST00268,Azaan Srinivas,Male,51,Bengaluru,Karnataka,South,2024-01-31,Corporate
+CUST00269,Darika Swaminathan,Female,28,Hyderabad,Telangana,South,2023-04-10,Retail
+CUST00270,Balhaar Buch,Male,35,Delhi,Delhi,North,2020-12-06,Premium
+CUST00271,Bhavini Date,Female,44,Indore,Madhya Pradesh,Central,2020-08-25,Retail
+CUST00272,Sai Wali,Female,37,Mumbai,Maharashtra,West,2020-10-08,Retail
+CUST00273,Chavvi Contractor,Female,64,Kochi,Kerala,South,2024-02-12,Premium
+CUST00274,Upasna Seth,Female,45,Bhopal,Madhya Pradesh,Central,2024-04-29,Premium
+CUST00275,Pallavi Setty,Female,64,Surat,Gujarat,West,2021-05-23,Retail
+CUST00276,Naksh Sane,Male,56,Raipur,Chhattisgarh,Central,2020-11-15,Retail
+CUST00277,Rachit Dua,Male,61,Ahmedabad,Gujarat,West,2023-02-13,Premium
+CUST00278,Bhavna Chand,Female,28,Patna,Bihar,East,2023-12-28,Retail
+CUST00279,Tarak Char,Male,52,Chennai,Tamil Nadu,South,2023-06-20,Retail
+CUST00280,Dhruv Bhasin,Male,29,Indore,Madhya Pradesh,Central,2022-07-08,Retail
+CUST00281,Divya Roy,Female,47,Indore,Madhya Pradesh,Central,2021-02-13,Retail
+CUST00282,Atharv Mani,Male,62,Patna,Bihar,East,2022-08-08,Retail
+CUST00283,Damini Tripathi,Female,47,Raipur,Chhattisgarh,Central,2020-04-11,Corporate
+CUST00284,Jasmit Chokshi,Female,65,Pune,Maharashtra,West,2021-02-06,Retail
+CUST00285,Deepa Mallick,Female,36,Bhubaneswar,Odisha,East,2022-06-11,Premium
+CUST00286,Agastya Loke,Male,55,Kochi,Kerala,South,2019-03-05,Premium
+CUST00287,Nilima Nori,Female,46,Pune,Maharashtra,West,2021-02-08,Retail
+CUST00288,Ekbal Rattan,Male,26,Bhubaneswar,Odisha,East,2019-06-02,Retail
+CUST00289,Chakradev Wali,Male,42,Pune,Maharashtra,West,2020-04-16,Retail
+CUST00290,Utkarsh Om,Male,34,Bhopal,Madhya Pradesh,Central,2019-12-11,Retail
+CUST00291,Nicholas Chad,Male,34,Bhopal,Madhya Pradesh,Central,2024-04-19,Premium
+CUST00292,Farhan Bawa,Male,30,Hyderabad,Telangana,South,2023-01-16,Premium
+CUST00293,Timothy Samra,Male,30,Bengaluru,Karnataka,South,2021-11-30,Corporate
+CUST00294,Triya Mahajan,Female,28,Jaipur,Rajasthan,North,2020-04-17,Retail
+CUST00295,Orinder Sani,Male,21,Delhi,Delhi,North,2019-08-31,Retail
+CUST00296,Mitesh Bath,Male,41,Bhopal,Madhya Pradesh,Central,2020-04-28,Retail
+CUST00297,Aarini Jayaraman,Female,29,Pune,Maharashtra,West,2020-10-22,Premium
+CUST00298,Ekapad Kumer,Male,51,Ahmedabad,Gujarat,West,2020-09-26,Retail
+CUST00299,Aarini Tank,Female,58,Nagpur,Maharashtra,West,2023-06-25,Retail
+CUST00300,Dhruv Rai,Male,23,Raipur,Chhattisgarh,Central,2022-03-12,Premium
+CUST00301,Yamini Pandya,Female,62,Bhubaneswar,Odisha,East,2019-06-07,Corporate
+CUST00302,Tejas Bahl,Male,46,Guwahati,Assam,East,2021-10-04,Retail
+CUST00303,Naksh Sanghvi,Male,49,Guwahati,Assam,East,2022-06-10,Retail
+CUST00304,Maanav Contractor,Male,59,Hyderabad,Telangana,South,2021-06-06,Retail
+CUST00305,Frederick Sharma,Male,60,Bengaluru,Karnataka,South,2023-12-28,Retail
+CUST00306,Chanchal Sarkar,Female,59,Kolkata,West Bengal,East,2024-01-25,Retail
+CUST00307,Urmi Rattan,Female,59,Nagpur,Maharashtra,West,2022-02-22,Retail
+CUST00308,Mohammed Nori,Male,34,Indore,Madhya Pradesh,Central,2020-04-30,Retail
+CUST00309,Balvan Uppal,Male,42,Patna,Bihar,East,2022-10-19,Premium
+CUST00310,Priya Panchal,Female,27,Patna,Bihar,East,2023-05-13,Retail
+CUST00311,Kamya Chauhan,Female,44,Bengaluru,Karnataka,South,2019-11-17,Corporate
+CUST00312,Harini Dua,Female,26,Ahmedabad,Gujarat,West,2023-07-24,Premium
+CUST00313,Gaurang Tak,Male,27,Patna,Bihar,East,2021-10-13,Premium
+CUST00314,Ojasvi Mutti,Female,56,Delhi,Delhi,North,2019-11-27,Retail
+CUST00315,Vrinda Sathe,Female,47,Surat,Gujarat,West,2022-10-15,Retail
+CUST00316,Baghyawati Pandey,Female,39,Pune,Maharashtra,West,2022-01-16,Retail
+CUST00317,Vedhika Seth,Female,57,Surat,Gujarat,West,2019-03-24,Retail
+CUST00318,Luke Bose,Male,35,Guwahati,Assam,East,2022-11-13,Premium
+CUST00319,Yashica Rajagopalan,Female,44,Indore,Madhya Pradesh,Central,2021-10-10,Retail
+CUST00320,Varenya Guha,Female,35,Bhopal,Madhya Pradesh,Central,2020-12-05,Premium
+CUST00321,Zashil Dora,Male,63,Raipur,Chhattisgarh,Central,2024-09-29,Premium
+CUST00322,Dalaja Oza,Female,32,Mumbai,Maharashtra,West,2024-11-22,Retail
+CUST00323,Yashawini Gera,Female,43,Hyderabad,Telangana,South,2019-03-27,Retail
+CUST00324,Theodore Viswanathan,Male,63,Bhopal,Madhya Pradesh,Central,2022-02-19,Retail
+CUST00325,Qabil Pradhan,Male,26,Mumbai,Maharashtra,West,2024-07-04,Premium
+CUST00326,Samarth Nigam,Male,47,Kolkata,West Bengal,East,2023-01-27,Retail
+CUST00327,Oliver Bhatti,Male,40,Kochi,Kerala,South,2020-12-23,Premium
+CUST00328,Lucky Krishnan,Male,30,Pune,Maharashtra,West,2023-05-05,Retail
+CUST00329,Ojas Bumb,Male,38,Ahmedabad,Gujarat,West,2022-06-30,Retail
+CUST00330,Pushti Mukherjee,Female,59,Guwahati,Assam,East,2024-10-21,Retail
+CUST00331,Eiravati Chad,Female,53,Lucknow,Uttar Pradesh,North,2020-11-09,Retail
+CUST00332,Omya Datta,Female,39,Surat,Gujarat,West,2023-01-08,Retail
+CUST00333,Udyati Trivedi,Female,63,Nagpur,Maharashtra,West,2021-03-03,Retail
+CUST00334,Mohammed Gole,Male,59,Kolkata,West Bengal,East,2024-09-15,Retail
+CUST00335,Xavier Handa,Male,34,Chennai,Tamil Nadu,South,2020-05-11,Premium
+CUST00336,Garima Brahmbhatt,Female,41,Chennai,Tamil Nadu,South,2020-10-10,Retail
+CUST00337,Yashica Zacharia,Female,32,Patna,Bihar,East,2024-01-04,Retail
+CUST00338,Om Deep,Male,56,Nagpur,Maharashtra,West,2022-08-01,Premium
+CUST00339,Gautami Golla,Female,46,Ahmedabad,Gujarat,West,2023-12-27,Premium
+CUST00340,Theodore Bassi,Male,22,Patna,Bihar,East,2021-06-19,Retail
+CUST00341,Tristan Mane,Male,57,Hyderabad,Telangana,South,2023-07-07,Retail
+CUST00342,Kamala Walla,Female,39,Patna,Bihar,East,2020-06-08,Retail
+CUST00343,Gunbir Pillai,Male,31,Hyderabad,Telangana,South,2023-01-26,Premium
+CUST00344,Vedhika Manda,Female,26,Kochi,Kerala,South,2023-09-01,Retail
+CUST00345,Faris Iyengar,Male,48,Chandigarh,Punjab,North,2023-10-22,Retail
+CUST00346,Jeremiah Ben,Male,40,Kolkata,West Bengal,East,2022-11-05,Premium
+CUST00347,Charan Varty,Male,31,Hyderabad,Telangana,South,2024-02-08,Retail
+CUST00348,Benjamin Dyal,Male,53,Nagpur,Maharashtra,West,2020-08-20,Retail
+CUST00349,Urmi Chand,Female,62,Kochi,Kerala,South,2024-09-04,Premium
+CUST00350,Umang Palla,Male,30,Surat,Gujarat,West,2024-07-31,Retail
+CUST00351,Avi Randhawa,Male,30,Raipur,Chhattisgarh,Central,2022-01-04,Premium
+CUST00352,Reyansh Bumb,Male,61,Jaipur,Rajasthan,North,2021-04-01,Retail
+CUST00353,Odika Chaudhary,Female,62,Bhopal,Madhya Pradesh,Central,2024-01-13,Retail
+CUST00354,Eta Devan,Female,30,Hyderabad,Telangana,South,2019-03-25,Retail
+CUST00355,Ekiya Singh,Female,61,Bhubaneswar,Odisha,East,2021-09-09,Retail
+CUST00356,Chaaya Bahl,Female,24,Bhopal,Madhya Pradesh,Central,2020-07-14,Retail
+CUST00357,Siddharth Choudhry,Male,50,Chennai,Tamil Nadu,South,2023-08-28,Retail
+CUST00358,Matthew Dara,Male,39,Kochi,Kerala,South,2019-04-15,Retail
+CUST00359,Veer Bhatnagar,Male,59,Raipur,Chhattisgarh,Central,2019-08-31,Retail
+CUST00360,Adweta Varma,Female,56,Bhopal,Madhya Pradesh,Central,2022-06-13,Corporate
+CUST00361,Madhav Sanghvi,Male,57,Bhubaneswar,Odisha,East,2019-01-04,Retail
+CUST00362,Kavya Saha,Female,51,Raipur,Chhattisgarh,Central,2020-02-15,Retail
+CUST00363,Pranit Bir,Male,27,Bhubaneswar,Odisha,East,2024-09-19,Premium
+CUST00364,Saumya Singhal,Female,53,Ahmedabad,Gujarat,West,2019-04-06,Retail
+CUST00365,Rachit Kulkarni,Male,49,Chandigarh,Punjab,North,2023-06-26,Corporate
+CUST00366,Bahadurjit Pai,Male,44,Kochi,Kerala,South,2020-06-12,Premium
+CUST00367,Osha Deol,Female,42,Patna,Bihar,East,2019-04-08,Retail
+CUST00368,Gagan Shetty,Male,25,Hyderabad,Telangana,South,2024-11-18,Retail
+CUST00369,Hemani Deshmukh,Female,37,Chennai,Tamil Nadu,South,2019-05-19,Premium
+CUST00370,Andrew Memon,Male,26,Hyderabad,Telangana,South,2020-03-17,Retail
+CUST00371,Ansh Mutti,Male,40,Kochi,Kerala,South,2024-08-07,Corporate
+CUST00372,Vritti Kulkarni,Female,59,Delhi,Delhi,North,2019-03-22,Premium
+CUST00373,Luke Parikh,Male,56,Chennai,Tamil Nadu,South,2024-03-03,Retail
+CUST00374,Oni Mahajan,Female,63,Delhi,Delhi,North,2019-09-30,Premium
+CUST00375,Tejas Ratta,Male,53,Patna,Bihar,East,2023-06-17,Retail
+CUST00376,Pallavi Grover,Female,32,Chennai,Tamil Nadu,South,2021-12-23,Corporate
+CUST00377,Raksha Venkataraman,Female,33,Guwahati,Assam,East,2020-08-07,Retail
+CUST00378,Simon Brar,Male,25,Delhi,Delhi,North,2021-08-01,Retail
+CUST00379,Manan Nagi,Male,55,Nagpur,Maharashtra,West,2019-08-13,Premium
+CUST00380,Manbir Mohan,Male,60,Hyderabad,Telangana,South,2021-09-04,Retail
+CUST00381,Geetika Sawhney,Female,31,Delhi,Delhi,North,2021-02-09,Retail
+CUST00382,Patrick Saran,Male,23,Bhubaneswar,Odisha,East,2020-08-24,Retail
+CUST00383,Baljiwan Ravi,Male,60,Bhubaneswar,Odisha,East,2021-03-07,Retail
+CUST00384,Amruta Dhar,Female,55,Chandigarh,Punjab,North,2024-02-03,Retail
+CUST00385,Anika Date,Female,44,Lucknow,Uttar Pradesh,North,2019-05-28,Retail
+CUST00386,Radhika Rajagopal,Female,39,Bhubaneswar,Odisha,East,2024-09-11,Premium
+CUST00387,Ganga Sengupta,Female,33,Jaipur,Rajasthan,North,2024-09-09,Premium
+CUST00388,Tristan Bose,Male,24,Bengaluru,Karnataka,South,2022-06-11,Retail
+CUST00389,Sneha Murthy,Female,27,Indore,Madhya Pradesh,Central,2022-11-24,Premium
+CUST00390,Dakshesh Bal,Male,26,Chennai,Tamil Nadu,South,2023-05-31,Premium
+CUST00391,Yochana Ram,Female,53,Bhubaneswar,Odisha,East,2024-06-24,Retail
+CUST00392,Lekha Lad,Female,35,Ahmedabad,Gujarat,West,2023-03-23,Premium
+CUST00393,Mekhala Swaminathan,Female,47,Mumbai,Maharashtra,West,2020-03-14,Retail
+CUST00394,Bina Seth,Female,45,Chandigarh,Punjab,North,2020-01-14,Corporate
+CUST00395,Chameli Nagarajan,Female,22,Chandigarh,Punjab,North,2023-01-03,Retail
+CUST00396,Maanav Mital,Male,30,Hyderabad,Telangana,South,2024-02-09,Retail
+CUST00397,Radhika Trivedi,Female,65,Guwahati,Assam,East,2020-05-06,Premium
+CUST00398,Ekiya Khalsa,Female,60,Bhubaneswar,Odisha,East,2023-09-28,Retail
+CUST00399,Pranit Pillay,Male,37,Mumbai,Maharashtra,West,2021-10-21,Retail
+CUST00400,Caleb Bhatti,Male,59,Indore,Madhya Pradesh,Central,2020-11-08,Retail
+CUST00401,Samesh Rout,Male,36,Chennai,Tamil Nadu,South,2023-12-09,Retail
+CUST00402,Dev Nadig,Male,47,Chandigarh,Punjab,North,2022-11-08,Retail
+CUST00403,Vidhi Varughese,Female,28,Ahmedabad,Gujarat,West,2021-01-24,Premium
+CUST00404,Eiravati Sant,Female,55,Raipur,Chhattisgarh,Central,2022-01-06,Retail
+CUST00405,David Vasa,Male,39,Delhi,Delhi,North,2019-12-02,Retail
+CUST00406,Gaurika Naidu,Female,57,Chandigarh,Punjab,North,2024-08-10,Retail
+CUST00407,Oscar Venkataraman,Male,44,Nagpur,Maharashtra,West,2024-05-14,Retail
+CUST00408,Jeremiah Hegde,Male,51,Kolkata,West Bengal,East,2022-10-23,Retail
+CUST00409,Edhitha Mitter,Female,37,Kochi,Kerala,South,2022-09-08,Premium
+CUST00410,Yashasvi Ganguly,Female,43,Ahmedabad,Gujarat,West,2022-07-20,Retail
+CUST00411,Frederick Nazareth,Male,42,Bhopal,Madhya Pradesh,Central,2024-01-20,Retail
+CUST00412,Amrita Bumb,Female,42,Indore,Madhya Pradesh,Central,2019-04-10,Premium
+CUST00413,Henry Saha,Male,65,Bhubaneswar,Odisha,East,2022-09-16,Retail
+CUST00414,Yuvraj Mann,Male,25,Delhi,Delhi,North,2022-11-07,Premium
+CUST00415,Warhi Konda,Female,39,Pune,Maharashtra,West,2023-10-30,Retail
+CUST00416,Manthan Setty,Male,41,Pune,Maharashtra,West,2019-06-09,Corporate
+CUST00417,Gaurangi Sarraf,Female,51,Indore,Madhya Pradesh,Central,2021-06-29,Retail
+CUST00418,Harsh Oak,Male,43,Chennai,Tamil Nadu,South,2022-08-22,Premium
+CUST00419,Nathaniel Pai,Male,38,Hyderabad,Telangana,South,2024-11-07,Retail
+CUST00420,Reva Varma,Female,46,Patna,Bihar,East,2022-05-15,Premium
+CUST00421,Kavya Shukla,Female,32,Hyderabad,Telangana,South,2019-09-26,Retail
+CUST00422,Krishna Dhaliwal,Female,54,Kochi,Kerala,South,2019-08-01,Retail
+CUST00423,Rehaan Sahota,Male,26,Patna,Bihar,East,2020-06-27,Retail
+CUST00424,Nihal Munshi,Male,39,Indore,Madhya Pradesh,Central,2020-02-20,Retail
+CUST00425,Zaid Varma,Male,63,Hyderabad,Telangana,South,2021-10-19,Retail
+CUST00426,Yadavi Bajaj,Female,48,Raipur,Chhattisgarh,Central,2019-07-17,Retail
+CUST00427,Yashawini Shankar,Female,49,Kochi,Kerala,South,2024-10-19,Retail
+CUST00428,Qushi Bava,Female,48,Raipur,Chhattisgarh,Central,2019-04-21,Retail
+CUST00429,Wahab Mangal,Male,63,Ahmedabad,Gujarat,West,2022-03-21,Retail
+CUST00430,Upasna Desai,Female,64,Nagpur,Maharashtra,West,2024-04-17,Retail
+CUST00431,Saksham Pau,Male,59,Delhi,Delhi,North,2019-04-10,Retail
+CUST00432,Indali Patil,Female,29,Pune,Maharashtra,West,2022-04-27,Retail
+CUST00433,Sanya Thaman,Female,45,Kochi,Kerala,South,2021-09-13,Corporate
+CUST00434,Daniel Dave,Male,30,Raipur,Chhattisgarh,Central,2024-11-06,Retail
+CUST00435,Ridhi Nori,Female,49,Kochi,Kerala,South,2022-05-07,Premium
+CUST00436,Ekbal Issac,Male,44,Nagpur,Maharashtra,West,2022-08-12,Retail
+CUST00437,Yamini Baria,Female,28,Chandigarh,Punjab,North,2019-04-10,Retail
+CUST00438,Ojas Som,Male,54,Guwahati,Assam,East,2022-02-11,Retail
+CUST00439,Ekaraj Narang,Male,37,Bengaluru,Karnataka,South,2024-08-02,Premium
+CUST00440,Finn Ramaswamy,Male,39,Raipur,Chhattisgarh,Central,2024-12-10,Retail
+CUST00441,Pahal Tripathi,Female,28,Lucknow,Uttar Pradesh,North,2023-12-20,Retail
+CUST00442,Mason Soman,Male,32,Bhubaneswar,Odisha,East,2023-11-23,Premium
+CUST00443,Oni Choudhary,Female,64,Ahmedabad,Gujarat,West,2024-11-16,Corporate
+CUST00444,Amara Som,Female,25,Kochi,Kerala,South,2020-08-04,Retail
+CUST00445,Ati Srinivasan,Female,31,Chennai,Tamil Nadu,South,2020-01-09,Premium
+CUST00446,Ethan Kibe,Male,53,Kochi,Kerala,South,2019-03-11,Retail
+CUST00447,Girish Bahl,Male,36,Delhi,Delhi,North,2021-08-24,Premium
+CUST00448,Faqid Sachar,Male,56,Kochi,Kerala,South,2023-02-21,Retail
+CUST00449,Yamini Sinha,Female,29,Indore,Madhya Pradesh,Central,2024-03-27,Retail
+CUST00450,Ekapad Venkataraman,Male,40,Ahmedabad,Gujarat,West,2020-03-30,Retail
+CUST00451,Waida Vora,Female,47,Nagpur,Maharashtra,West,2021-04-05,Premium
+CUST00452,Victor Walia,Male,41,Delhi,Delhi,North,2021-01-20,Retail
+CUST00453,Libni Sule,Female,64,Bhubaneswar,Odisha,East,2020-02-26,Retail
+CUST00454,Liam Misra,Male,61,Indore,Madhya Pradesh,Central,2020-05-07,Retail
+CUST00455,Maanas Johal,Male,53,Patna,Bihar,East,2023-02-21,Premium
+CUST00456,Nathan Srinivasan,Male,54,Surat,Gujarat,West,2021-02-03,Retail
+CUST00457,Maanas Dara,Male,41,Jaipur,Rajasthan,North,2022-06-10,Corporate
+CUST00458,Rudra Pai,Male,54,Kochi,Kerala,South,2024-09-22,Premium
+CUST00459,Maanav Basak,Male,33,Bengaluru,Karnataka,South,2020-09-22,Retail
+CUST00460,Prisha Sathe,Female,61,Delhi,Delhi,North,2022-12-08,Retail
+CUST00461,Hredhaan Jaggi,Male,62,Nagpur,Maharashtra,West,2023-12-20,Retail
+CUST00462,Laban Devan,Male,63,Jaipur,Rajasthan,North,2019-08-28,Retail
+CUST00463,Keya Bedi,Female,23,Bhopal,Madhya Pradesh,Central,2023-01-07,Premium
+CUST00464,Jackson Ben,Male,23,Ahmedabad,Gujarat,West,2019-08-08,Corporate
+CUST00465,Vrishti Chaudhry,Female,57,Lucknow,Uttar Pradesh,North,2023-02-01,Retail
+CUST00466,Aarnav Dugar,Male,61,Guwahati,Assam,East,2021-06-10,Retail
+CUST00467,Waida Iyengar,Female,36,Guwahati,Assam,East,2023-07-15,Premium
+CUST00468,Oeshi Mangal,Female,50,Chennai,Tamil Nadu,South,2022-11-16,Retail
+CUST00469,Jack Warrior,Male,49,Jaipur,Rajasthan,North,2023-06-07,Retail
+CUST00470,Harita Sahni,Female,42,Lucknow,Uttar Pradesh,North,2024-04-16,Retail
+CUST00471,Anita Ranganathan,Female,43,Hyderabad,Telangana,South,2023-09-23,Corporate
+CUST00472,Maanav Barad,Male,53,Kochi,Kerala,South,2019-01-21,Retail
+CUST00473,Oviya Mane,Female,50,Chandigarh,Punjab,North,2021-09-22,Retail
+CUST00474,Ekani Thaman,Female,30,Chandigarh,Punjab,North,2021-10-22,Retail
+CUST00475,Dayita Narayanan,Female,60,Kolkata,West Bengal,East,2019-12-23,Retail
+CUST00476,Kabir Grewal,Male,57,Hyderabad,Telangana,South,2019-01-31,Premium
+CUST00477,Manbir Hans,Male,52,Jaipur,Rajasthan,North,2020-01-20,Corporate
+CUST00478,Unni Varma,Female,40,Guwahati,Assam,East,2020-12-19,Retail
+CUST00479,Champak Goyal,Male,53,Kolkata,West Bengal,East,2024-11-20,Retail
+CUST00480,Neel Kothari,Male,58,Lucknow,Uttar Pradesh,North,2019-01-15,Retail
+CUST00481,Jacob Sekhon,Male,52,Chennai,Tamil Nadu,South,2023-07-10,Retail
+CUST00482,Nidhi Apte,Female,55,Chennai,Tamil Nadu,South,2020-07-27,Retail
+CUST00483,Jacob Bhatia,Male,29,Patna,Bihar,East,2023-01-03,Premium
+CUST00484,Nikita Dutta,Female,44,Kolkata,West Bengal,East,2021-06-07,Retail
+CUST00485,Daniel Merchant,Male,56,Bhopal,Madhya Pradesh,Central,2021-03-16,Retail
+CUST00486,Januja Deol,Female,45,Ahmedabad,Gujarat,West,2021-11-13,Retail
+CUST00487,Ridhi Sagar,Female,64,Raipur,Chhattisgarh,Central,2023-03-18,Retail
+CUST00488,Ikbal Kota,Male,46,Surat,Gujarat,West,2023-01-30,Retail
+CUST00489,Zansi Sekhon,Female,44,Indore,Madhya Pradesh,Central,2022-03-03,Premium
+CUST00490,Balvan Choudhury,Male,53,Raipur,Chhattisgarh,Central,2019-05-16,Retail
+CUST00491,Falan Gala,Male,23,Pune,Maharashtra,West,2020-12-19,Retail
+CUST00492,Devika Jha,Female,54,Guwahati,Assam,East,2023-04-20,Retail
+CUST00493,Chakradev Uppal,Male,60,Hyderabad,Telangana,South,2021-09-03,Retail
+CUST00494,Vasana Deo,Female,40,Raipur,Chhattisgarh,Central,2022-01-29,Retail
+CUST00495,Barkha Shere,Female,40,Bhopal,Madhya Pradesh,Central,2023-01-14,Retail
+CUST00496,Advay Randhawa,Male,42,Kochi,Kerala,South,2020-07-11,Retail
+CUST00497,Janani Bora,Female,40,Bhopal,Madhya Pradesh,Central,2019-04-10,Premium
+CUST00498,Azad Bhasin,Male,51,Raipur,Chhattisgarh,Central,2024-08-09,Retail
+CUST00499,Warinder Balay,Male,58,Pune,Maharashtra,West,2020-09-21,Retail
+CUST00500,Ekanta Salvi,Female,64,Delhi,Delhi,North,2021-03-31,Retail
+CUST00501,Udarsh Purohit,Male,22,Lucknow,Uttar Pradesh,North,2021-04-03,Retail
+CUST00502,Priya Dani,Female,47,Delhi,Delhi,North,2020-01-27,Retail
+CUST00503,Zarna Datta,Female,60,Nagpur,Maharashtra,West,2023-05-14,Corporate
+CUST00504,Aarav Bajaj,Male,54,Delhi,Delhi,North,2024-11-13,Retail
+CUST00505,Unnati Wali,Female,54,Guwahati,Assam,East,2021-04-10,Retail
+CUST00506,Jatin Sharma,Male,55,Bhubaneswar,Odisha,East,2021-01-28,Retail
+CUST00507,Ijaya Chowdhury,Female,60,Bengaluru,Karnataka,South,2019-03-12,Retail
+CUST00508,Abhiram Khosla,Male,56,Bengaluru,Karnataka,South,2020-03-27,Retail
+CUST00509,Anika Sekhon,Female,34,Chennai,Tamil Nadu,South,2022-08-02,Retail
+CUST00510,Krisha Basu,Female,51,Hyderabad,Telangana,South,2021-05-31,Retail
+CUST00511,Janani Bhalla,Female,28,Chennai,Tamil Nadu,South,2019-11-04,Retail
+CUST00512,Kamala Nagar,Female,43,Kolkata,West Bengal,East,2022-06-19,Corporate
+CUST00513,Jagat Mittal,Male,23,Chennai,Tamil Nadu,South,2024-04-03,Retail
+CUST00514,Samuel Mital,Male,49,Kochi,Kerala,South,2020-08-25,Retail
+CUST00515,Unni Tandon,Female,33,Lucknow,Uttar Pradesh,North,2019-04-13,Premium
+CUST00516,Sai Vohra,Female,65,Indore,Madhya Pradesh,Central,2020-11-29,Retail
+CUST00517,Samarth Dixit,Male,58,Raipur,Chhattisgarh,Central,2020-10-19,Retail
+CUST00518,Warjas Khosla,Male,35,Nagpur,Maharashtra,West,2024-02-04,Retail
+CUST00519,Ekbal Sheth,Male,47,Surat,Gujarat,West,2024-06-27,Retail
+CUST00520,Turvi Wagle,Female,64,Surat,Gujarat,West,2019-10-21,Premium
+CUST00521,Joshua Jani,Male,31,Indore,Madhya Pradesh,Central,2020-12-24,Retail
+CUST00522,Varenya Prabhakar,Female,62,Guwahati,Assam,East,2019-07-22,Retail
+CUST00523,Ati Loyal,Female,39,Hyderabad,Telangana,South,2021-04-06,Retail
+CUST00524,Balhaar Guha,Male,35,Bhopal,Madhya Pradesh,Central,2023-10-29,Retail
+CUST00525,Wriddhish Joshi,Male,47,Jaipur,Rajasthan,North,2024-03-20,Premium
+CUST00526,Max Aurora,Male,46,Pune,Maharashtra,West,2020-04-09,Premium
+CUST00527,Daniel Srinivas,Male,23,Chennai,Tamil Nadu,South,2024-06-26,Retail
+CUST00528,Rushil Khatri,Male,39,Hyderabad,Telangana,South,2022-04-24,Retail
+CUST00529,Sachi Shukla,Female,53,Delhi,Delhi,North,2022-03-15,Retail
+CUST00530,Mitesh Lal,Male,42,Surat,Gujarat,West,2021-02-26,Retail
+CUST00531,Vidhi Chaudhari,Female,32,Bengaluru,Karnataka,South,2023-10-25,Retail
+CUST00532,Odika Jani,Female,57,Chennai,Tamil Nadu,South,2021-03-23,Retail
+CUST00533,Arin Kant,Male,60,Jaipur,Rajasthan,North,2023-06-13,Premium
+CUST00534,Leena Sahni,Female,53,Patna,Bihar,East,2020-10-08,Retail
+CUST00535,Omya Karpe,Female,32,Surat,Gujarat,West,2021-04-12,Corporate
+CUST00536,Yahvi Nazareth,Female,36,Hyderabad,Telangana,South,2020-07-17,Retail
+CUST00537,Xalak Sharma,Female,49,Chandigarh,Punjab,North,2020-01-04,Premium
+CUST00538,Hamsini Dey,Female,58,Chennai,Tamil Nadu,South,2023-04-28,Premium
+CUST00539,George Bhargava,Male,62,Bengaluru,Karnataka,South,2022-02-21,Retail
+CUST00540,Arjun Ahuja,Male,63,Pune,Maharashtra,West,2021-06-22,Retail
+CUST00541,Bhavna Dora,Female,46,Jaipur,Rajasthan,North,2019-01-21,Retail
+CUST00542,Ridhi Bhasin,Female,61,Surat,Gujarat,West,2022-09-15,Premium
+CUST00543,Widisha Babu,Female,60,Kochi,Kerala,South,2019-01-15,Retail
+CUST00544,Abeer Badal,Male,30,Guwahati,Assam,East,2022-03-05,Retail
+CUST00545,Mekhala Badal,Female,65,Patna,Bihar,East,2022-01-05,Retail
+CUST00546,Hemal Chhabra,Female,63,Indore,Madhya Pradesh,Central,2024-07-04,Premium
+CUST00547,Jai Handa,Male,26,Raipur,Chhattisgarh,Central,2022-09-19,Retail
+CUST00548,Raagini Loke,Female,57,Ahmedabad,Gujarat,West,2023-10-08,Retail
+CUST00549,Rachit Ravi,Male,55,Bhopal,Madhya Pradesh,Central,2021-10-02,Retail
+CUST00550,Jeevika Mital,Female,49,Nagpur,Maharashtra,West,2023-02-07,Retail
+CUST00551,Amol Chander,Male,52,Bhopal,Madhya Pradesh,Central,2021-06-06,Retail
+CUST00552,Vyanjana Bhalla,Female,50,Pune,Maharashtra,West,2022-10-27,Retail
+CUST00553,Chakrika Tata,Female,57,Bhubaneswar,Odisha,East,2024-01-27,Retail
+CUST00554,Charvi Wable,Female,22,Chennai,Tamil Nadu,South,2024-07-06,Retail
+CUST00555,Hitesh Soman,Male,58,Lucknow,Uttar Pradesh,North,2020-08-16,Retail
+CUST00556,Meera Bali,Female,65,Kochi,Kerala,South,2020-01-28,Retail
+CUST00557,Abhiram Johal,Male,51,Ahmedabad,Gujarat,West,2022-07-10,Retail
+CUST00558,Brinda Mistry,Female,29,Jaipur,Rajasthan,North,2019-12-22,Premium
+CUST00559,Saumya Zachariah,Female,45,Kochi,Kerala,South,2020-12-27,Retail
+CUST00560,Chaaya Tella,Female,26,Kolkata,West Bengal,East,2023-06-22,Retail
+CUST00561,Avi Chaudhari,Male,28,Kochi,Kerala,South,2021-08-15,Retail
+CUST00562,Panini Ranganathan,Female,29,Nagpur,Maharashtra,West,2024-10-23,Premium
+CUST00563,Alexander Mahajan,Male,22,Mumbai,Maharashtra,West,2023-09-13,Corporate
+CUST00564,Xalak Kari,Female,48,Indore,Madhya Pradesh,Central,2021-02-18,Retail
+CUST00565,Tarak Grewal,Male,50,Chandigarh,Punjab,North,2023-01-29,Retail
+CUST00566,Chaman Merchant,Female,28,Lucknow,Uttar Pradesh,North,2023-10-15,Retail
+CUST00567,Chakrika Loyal,Female,22,Raipur,Chhattisgarh,Central,2019-12-04,Retail
+CUST00568,Robert Nadig,Male,59,Surat,Gujarat,West,2021-03-01,Retail
+CUST00569,Aarnav Morar,Male,23,Chandigarh,Punjab,North,2021-09-01,Retail
+CUST00570,Charan Deo,Male,34,Indore,Madhya Pradesh,Central,2019-07-11,Premium
+CUST00571,Udarsh Vala,Male,53,Delhi,Delhi,North,2021-06-13,Corporate
+CUST00572,Chaitanya Pandya,Male,41,Bhopal,Madhya Pradesh,Central,2022-04-29,Retail
+CUST00573,Sanya Arora,Female,40,Chandigarh,Punjab,North,2020-10-01,Premium
+CUST00574,Brijesh Kibe,Male,40,Patna,Bihar,East,2022-06-07,Retail
+CUST00575,Ranveer Gara,Male,56,Patna,Bihar,East,2019-11-01,Retail
+CUST00576,Lipika Tailor,Female,54,Kolkata,West Bengal,East,2019-11-16,Retail
+CUST00577,Urishilla Majumdar,Female,30,Patna,Bihar,East,2021-07-11,Retail
+CUST00578,Balvan Patel,Male,51,Indore,Madhya Pradesh,Central,2020-07-05,Retail
+CUST00579,Yug Hayre,Male,30,Chennai,Tamil Nadu,South,2021-09-30,Premium
+CUST00580,Max Ahuja,Male,47,Indore,Madhya Pradesh,Central,2024-09-09,Corporate
+CUST00581,Ranveer Narayan,Male,36,Kolkata,West Bengal,East,2021-08-22,Retail
+CUST00582,Ekanta Mital,Female,49,Ahmedabad,Gujarat,West,2020-12-03,Premium
+CUST00583,Wriddhish Murthy,Male,33,Indore,Madhya Pradesh,Central,2020-01-25,Retail
+CUST00584,Odika Manne,Female,59,Raipur,Chhattisgarh,Central,2023-05-30,Retail
+CUST00585,Jairaj Nanda,Male,58,Lucknow,Uttar Pradesh,North,2021-04-03,Premium
+CUST00586,Qabil Comar,Male,34,Guwahati,Assam,East,2024-08-04,Premium
+CUST00587,Hemangini Bala,Female,21,Chennai,Tamil Nadu,South,2024-09-19,Retail
+CUST00588,Henry Sarma,Male,51,Surat,Gujarat,West,2023-10-14,Premium
+CUST00589,Samarth Tata,Male,36,Kolkata,West Bengal,East,2019-11-01,Retail
+CUST00590,Kavya Krishnan,Female,50,Kolkata,West Bengal,East,2022-12-14,Retail
+CUST00591,Saanvi Borah,Female,37,Chennai,Tamil Nadu,South,2021-09-10,Retail
+CUST00592,Suhani Warrior,Female,27,Bhubaneswar,Odisha,East,2022-01-14,Premium
+CUST00593,Anita Parsa,Female,34,Hyderabad,Telangana,South,2023-03-18,Retail
+CUST00594,Darika Kothari,Female,57,Pune,Maharashtra,West,2022-12-11,Premium
+CUST00595,Fiyaz Basu,Male,37,Mumbai,Maharashtra,West,2022-05-19,Retail
+CUST00596,Oni Sani,Female,30,Chennai,Tamil Nadu,South,2019-08-21,Retail
+CUST00597,Kai Kapadia,Male,57,Kolkata,West Bengal,East,2022-01-23,Premium
+CUST00598,Vansha Prasad,Female,62,Indore,Madhya Pradesh,Central,2021-05-06,Corporate
+CUST00599,Pooja Bakshi,Female,52,Bengaluru,Karnataka,South,2021-11-23,Corporate
+CUST00600,Triya Chada,Female,31,Bhubaneswar,Odisha,East,2019-09-12,Premium
+CUST00601,Priya Muni,Female,29,Jaipur,Rajasthan,North,2021-01-21,Premium
+CUST00602,Yoshita Subramanian,Female,55,Jaipur,Rajasthan,North,2021-02-02,Corporate
+CUST00603,Theodore Sethi,Male,23,Nagpur,Maharashtra,West,2020-11-29,Premium
+CUST00604,Anthony Contractor,Male,21,Pune,Maharashtra,West,2019-02-19,Retail
+CUST00605,Chatura Gala,Male,30,Ahmedabad,Gujarat,West,2024-07-30,Retail
+CUST00606,Yauvani Ghosh,Female,24,Kochi,Kerala,South,2022-04-24,Retail
+CUST00607,Unni Shere,Female,22,Guwahati,Assam,East,2020-05-22,Retail
+CUST00608,Hiral Grewal,Female,22,Mumbai,Maharashtra,West,2022-11-04,Retail
+CUST00609,Siya Balakrishnan,Female,39,Indore,Madhya Pradesh,Central,2023-06-04,Retail
+CUST00610,Varenya Sanghvi,Female,27,Jaipur,Rajasthan,North,2021-05-01,Premium
+CUST00611,Harshil Mallick,Male,33,Chandigarh,Punjab,North,2023-07-07,Retail
+CUST00612,Dalaja Yadav,Female,38,Kochi,Kerala,South,2020-02-14,Premium
+CUST00613,Guneet Shankar,Male,46,Kochi,Kerala,South,2019-09-07,Retail
+CUST00614,Naksh Rama,Male,40,Chandigarh,Punjab,North,2022-09-01,Retail
+CUST00615,Owen Pandey,Male,26,Pune,Maharashtra,West,2024-01-27,Retail
+CUST00616,Neha Chad,Female,51,Indore,Madhya Pradesh,Central,2023-01-12,Retail
+CUST00617,Daniel Khare,Male,26,Jaipur,Rajasthan,North,2020-10-31,Retail
+CUST00618,Ridhi Dhaliwal,Female,57,Hyderabad,Telangana,South,2022-01-24,Corporate
+CUST00619,Ekapad Rajagopal,Male,23,Nagpur,Maharashtra,West,2021-07-15,Retail
+CUST00620,Harini Ganesan,Female,23,Bengaluru,Karnataka,South,2021-12-08,Corporate
+CUST00621,Idika Murty,Female,57,Indore,Madhya Pradesh,Central,2024-01-19,Retail
+CUST00622,Praneel Andra,Male,22,Hyderabad,Telangana,South,2021-11-27,Corporate
+CUST00623,Rehaan Tiwari,Male,25,Kolkata,West Bengal,East,2022-12-01,Retail
+CUST00624,Yatan Sagar,Male,45,Bhopal,Madhya Pradesh,Central,2023-04-05,Retail
+CUST00625,Wishi Ganesh,Female,29,Kolkata,West Bengal,East,2019-07-01,Premium
+CUST00626,Imaran Master,Male,43,Nagpur,Maharashtra,West,2019-03-13,Retail
+CUST00627,Mitali Ganguly,Female,25,Chandigarh,Punjab,North,2023-09-07,Retail
+CUST00628,Yashodhara Chowdhury,Female,22,Hyderabad,Telangana,South,2022-06-08,Retail
+CUST00629,Rajeshri Barman,Female,35,Guwahati,Assam,East,2023-07-24,Retail
+CUST00630,Janani Sandal,Female,32,Patna,Bihar,East,2019-08-13,Retail
+CUST00631,Neha Bali,Female,60,Ahmedabad,Gujarat,West,2021-09-12,Retail
+CUST00632,Caleb Sarna,Male,26,Ahmedabad,Gujarat,West,2024-03-10,Retail
+CUST00633,Kashish Kadakia,Female,45,Delhi,Delhi,North,2023-11-12,Retail
+CUST00634,Tanish Gandhi,Male,21,Ahmedabad,Gujarat,West,2022-09-11,Corporate
+CUST00635,Ishanvi Bhargava,Female,38,Kochi,Kerala,South,2022-06-03,Retail
+CUST00636,Frado Naik,Male,48,Jaipur,Rajasthan,North,2024-11-14,Retail
+CUST00637,Mohini Loke,Female,22,Surat,Gujarat,West,2024-09-17,Retail
+CUST00638,Ekansh Sabharwal,Male,59,Raipur,Chhattisgarh,Central,2024-07-06,Premium
+CUST00639,Edhitha Deo,Female,39,Mumbai,Maharashtra,West,2020-07-01,Retail
+CUST00640,Jatin Ramaswamy,Male,36,Indore,Madhya Pradesh,Central,2021-12-08,Retail
+CUST00641,Sarthak Prashad,Male,31,Kolkata,West Bengal,East,2021-09-17,Retail
+CUST00642,Tamanna Varma,Female,52,Bengaluru,Karnataka,South,2023-07-01,Retail
+CUST00643,Utkarsh Sura,Male,38,Patna,Bihar,East,2020-12-18,Retail
+CUST00644,Charita Shanker,Female,44,Ahmedabad,Gujarat,West,2022-10-22,Retail
+CUST00645,Azad Warrior,Male,59,Guwahati,Assam,East,2021-05-21,Retail
+CUST00646,Jagvi Talwar,Female,29,Surat,Gujarat,West,2020-08-11,Retail
+CUST00647,Pahal De,Female,60,Hyderabad,Telangana,South,2022-05-25,Retail
+CUST00648,Pavani Bava,Female,42,Bhubaneswar,Odisha,East,2019-04-11,Retail
+CUST00649,Abhiram Dash,Male,41,Chennai,Tamil Nadu,South,2024-07-29,Retail
+CUST00650,Thomas Shan,Male,41,Guwahati,Assam,East,2019-01-02,Retail
+CUST00651,Isha Deo,Female,39,Hyderabad,Telangana,South,2024-04-16,Premium
+CUST00652,Gauri Mahal,Female,36,Bhopal,Madhya Pradesh,Central,2019-07-24,Retail
+CUST00653,Ladli Butala,Female,44,Kolkata,West Bengal,East,2021-03-25,Retail
+CUST00654,Atharv Randhawa,Male,55,Bhopal,Madhya Pradesh,Central,2022-10-02,Retail
+CUST00655,Tanish Chand,Male,34,Bhubaneswar,Odisha,East,2023-03-22,Retail
+CUST00656,Jalsa Sood,Female,47,Ahmedabad,Gujarat,West,2019-06-20,Retail
+CUST00657,Tristan Andra,Male,36,Chennai,Tamil Nadu,South,2019-01-18,Retail
+CUST00658,Darpan Sami,Male,45,Patna,Bihar,East,2023-03-01,Retail
+CUST00659,Bimala Karnik,Female,46,Bhopal,Madhya Pradesh,Central,2021-04-19,Retail
+CUST00660,Dalaja Munshi,Female,23,Indore,Madhya Pradesh,Central,2021-03-16,Premium
+CUST00661,Ekantika Raja,Female,59,Indore,Madhya Pradesh,Central,2023-08-22,Retail
+CUST00662,Ekbal Biswas,Male,36,Surat,Gujarat,West,2022-03-08,Retail
+CUST00663,Gayathri Sarraf,Female,62,Jaipur,Rajasthan,North,2021-02-08,Retail
+CUST00664,Forum Sabharwal,Female,48,Hyderabad,Telangana,South,2022-09-11,Retail
+CUST00665,Ikbal Chadha,Male,35,Bengaluru,Karnataka,South,2024-05-18,Retail
+CUST00666,David Rajagopalan,Male,44,Bhubaneswar,Odisha,East,2021-02-09,Retail
+CUST00667,Nakul Dey,Male,22,Kochi,Kerala,South,2020-06-26,Retail
+CUST00668,Kritika Mane,Female,26,Patna,Bihar,East,2023-09-03,Retail
+CUST00669,Matthew Jha,Male,40,Kochi,Kerala,South,2022-02-08,Retail
+CUST00670,Rohan Merchant,Male,51,Nagpur,Maharashtra,West,2022-11-16,Retail
+CUST00671,Yug Raju,Male,65,Bhubaneswar,Odisha,East,2019-09-05,Retail
+CUST00672,Balendra Wable,Male,23,Chennai,Tamil Nadu,South,2024-05-01,Premium
+CUST00673,Pranit Nadig,Male,42,Mumbai,Maharashtra,West,2019-10-17,Retail
+CUST00674,Qadim Gera,Male,54,Chandigarh,Punjab,North,2023-07-30,Retail
+CUST00675,Abhiram Bir,Male,56,Hyderabad,Telangana,South,2019-01-31,Retail
+CUST00676,Anusha Bhasin,Female,46,Chandigarh,Punjab,North,2024-09-09,Retail
+CUST00677,Zehaan Mangat,Male,46,Patna,Bihar,East,2022-10-09,Retail
+CUST00678,Siddharth Ratti,Male,58,Bhubaneswar,Odisha,East,2019-06-30,Retail
+CUST00679,Liam Chacko,Male,34,Lucknow,Uttar Pradesh,North,2020-11-10,Retail
+CUST00680,Faras Yadav,Male,27,Bhopal,Madhya Pradesh,Central,2020-12-16,Premium
+CUST00681,Mohammed Sarkar,Male,41,Kochi,Kerala,South,2023-05-19,Retail
+CUST00682,Ayush Konda,Male,63,Bengaluru,Karnataka,South,2019-07-08,Premium
+CUST00683,Devika Setty,Female,45,Raipur,Chhattisgarh,Central,2022-09-03,Retail
+CUST00684,Mohammed Gill,Male,43,Kochi,Kerala,South,2019-09-19,Premium
+CUST00685,Abdul Gade,Male,60,Chennai,Tamil Nadu,South,2021-12-23,Retail
+CUST00686,Kai Ganesan,Male,28,Hyderabad,Telangana,South,2021-03-25,Retail
+CUST00687,Daniel Balan,Male,44,Jaipur,Rajasthan,North,2021-01-04,Retail
+CUST00688,Madhavi Viswanathan,Female,59,Patna,Bihar,East,2019-05-20,Retail
+CUST00689,Yadavi Shah,Female,32,Patna,Bihar,East,2022-01-24,Retail
+CUST00690,Zaid Ganesan,Male,31,Indore,Madhya Pradesh,Central,2021-03-16,Retail
+CUST00691,Charan D’Alia,Male,41,Jaipur,Rajasthan,North,2020-05-15,Premium
+CUST00692,Anthony Arora,Male,21,Kochi,Kerala,South,2020-06-19,Retail
+CUST00693,Qabil Rajagopal,Male,56,Kolkata,West Bengal,East,2024-07-09,Retail
+CUST00694,Anita Saini,Female,64,Patna,Bihar,East,2020-05-06,Retail
+CUST00695,Turvi Nagarajan,Female,31,Guwahati,Assam,East,2020-08-17,Retail
+CUST00696,Quincy Dar,Male,39,Chandigarh,Punjab,North,2022-01-04,Retail
+CUST00697,Gaurav Kapoor,Male,39,Indore,Madhya Pradesh,Central,2023-10-29,Retail
+CUST00698,Suhani Biswas,Female,52,Bhopal,Madhya Pradesh,Central,2024-04-05,Retail
+CUST00699,Nachiket Narang,Male,28,Bhopal,Madhya Pradesh,Central,2019-07-09,Retail
+CUST00700,Aarna Pillay,Female,23,Indore,Madhya Pradesh,Central,2020-03-15,Premium
+CUST00701,Keya Shetty,Female,34,Indore,Madhya Pradesh,Central,2021-03-17,Corporate
+CUST00702,Guneet Korpal,Male,40,Chandigarh,Punjab,North,2019-11-26,Premium
+CUST00703,Advik Kaul,Male,37,Bhubaneswar,Odisha,East,2022-04-01,Retail
+CUST00704,Oliver Agarwal,Male,28,Bhubaneswar,Odisha,East,2023-07-21,Premium
+CUST00705,Mitesh Chawla,Male,58,Lucknow,Uttar Pradesh,North,2020-03-25,Retail
+CUST00706,Ubika Swamy,Female,60,Jaipur,Rajasthan,North,2024-10-06,Retail
+CUST00707,Logan Chander,Male,24,Lucknow,Uttar Pradesh,North,2019-04-07,Retail
+CUST00708,Yoshita Sachar,Female,55,Raipur,Chhattisgarh,Central,2023-03-16,Retail
+CUST00709,Vasudha Chad,Female,57,Chennai,Tamil Nadu,South,2022-06-26,Retail
+CUST00710,Ronith Borde,Male,47,Delhi,Delhi,North,2022-07-20,Premium
+CUST00711,Urishilla De,Female,65,Delhi,Delhi,North,2020-06-02,Premium
+CUST00712,Nakul Ramaswamy,Male,41,Delhi,Delhi,North,2023-03-16,Premium
+CUST00713,Nitara Sethi,Female,30,Guwahati,Assam,East,2020-08-18,Retail
+CUST00714,Isha Deshpande,Female,45,Patna,Bihar,East,2023-09-05,Retail
+CUST00715,Faras Cherian,Male,53,Kolkata,West Bengal,East,2019-12-27,Premium
+CUST00716,Nirja Ray,Female,52,Bhubaneswar,Odisha,East,2019-09-22,Retail
+CUST00717,Hemang Seth,Male,50,Ahmedabad,Gujarat,West,2020-11-06,Retail
+CUST00718,Dipta Chana,Female,55,Ahmedabad,Gujarat,West,2019-12-12,Retail
+CUST00719,Anusha Kale,Female,52,Lucknow,Uttar Pradesh,North,2024-01-06,Retail
+CUST00720,Falak Chand,Female,56,Hyderabad,Telangana,South,2023-04-08,Retail
+CUST00721,Siya Varghese,Female,64,Hyderabad,Telangana,South,2019-04-18,Premium
+CUST00722,Kalpit Ghosh,Male,61,Surat,Gujarat,West,2019-03-10,Premium
+CUST00723,Varsha Krish,Female,28,Mumbai,Maharashtra,West,2019-07-27,Corporate
+CUST00724,Ekaraj Dara,Male,50,Bhubaneswar,Odisha,East,2019-01-27,Retail
+CUST00725,Eiravati Hora,Female,65,Lucknow,Uttar Pradesh,North,2023-12-10,Premium
+CUST00726,Chaman Lad,Female,38,Jaipur,Rajasthan,North,2024-07-03,Retail
+CUST00727,Alka Bhattacharyya,Female,26,Bengaluru,Karnataka,South,2020-03-09,Retail
+CUST00728,Devansh Chanda,Male,46,Pune,Maharashtra,West,2024-06-06,Retail
+CUST00729,Darsh Basak,Male,62,Patna,Bihar,East,2024-08-26,Retail
+CUST00730,Frado Sant,Male,34,Mumbai,Maharashtra,West,2023-12-06,Retail
+CUST00731,Yuvraj Balan,Male,35,Bhopal,Madhya Pradesh,Central,2021-04-18,Retail
+CUST00732,Harini Pandya,Female,21,Mumbai,Maharashtra,West,2020-04-15,Retail
+CUST00733,Laksh Mammen,Male,65,Patna,Bihar,East,2021-09-04,Retail
+CUST00734,Anay Korpal,Male,45,Chandigarh,Punjab,North,2022-11-19,Retail
+CUST00735,Samesh Srinivas,Male,41,Surat,Gujarat,West,2019-05-14,Retail
+CUST00736,Sanaya Devan,Female,45,Delhi,Delhi,North,2021-07-07,Premium
+CUST00737,Aditya Raja,Male,25,Delhi,Delhi,North,2023-09-10,Retail
+CUST00738,Wriddhish Sundaram,Male,62,Raipur,Chhattisgarh,Central,2021-01-23,Retail
+CUST00739,Sara Madan,Female,61,Lucknow,Uttar Pradesh,North,2020-01-29,Premium
+CUST00740,Januja Balan,Female,64,Raipur,Chhattisgarh,Central,2024-05-16,Retail
+CUST00741,Ayush Sodhi,Male,27,Ahmedabad,Gujarat,West,2022-03-05,Retail
+CUST00742,Fariq Chaudhry,Male,45,Bhopal,Madhya Pradesh,Central,2020-06-27,Retail
+CUST00743,Lila Walla,Female,29,Hyderabad,Telangana,South,2023-11-24,Retail
+CUST00744,Imaran Rama,Male,56,Chandigarh,Punjab,North,2021-02-16,Retail
+CUST00745,Hema Khalsa,Female,63,Mumbai,Maharashtra,West,2022-07-22,Premium
+CUST00746,Akshay Pandey,Male,59,Nagpur,Maharashtra,West,2024-09-07,Retail
+CUST00747,Ijaya Tailor,Female,62,Chennai,Tamil Nadu,South,2022-04-02,Retail
+CUST00748,Yatan Barad,Male,45,Guwahati,Assam,East,2019-07-17,Retail
+CUST00749,Januja Bahri,Female,25,Raipur,Chhattisgarh,Central,2022-02-27,Retail
+CUST00750,Noah Jaggi,Male,41,Kochi,Kerala,South,2023-11-02,Retail
+CUST00751,Hema Naik,Female,55,Kochi,Kerala,South,2019-05-11,Retail
+CUST00752,Ekta Choudhry,Female,22,Ahmedabad,Gujarat,West,2024-01-29,Retail
+CUST00753,Balhaar Prakash,Male,34,Bengaluru,Karnataka,South,2023-03-24,Retail
+CUST00754,Chandresh Nayar,Male,53,Kolkata,West Bengal,East,2020-10-23,Retail
+CUST00755,Gaurangi Sarkar,Female,65,Patna,Bihar,East,2023-10-01,Retail
+CUST00756,Nathan Ghosh,Male,26,Bengaluru,Karnataka,South,2023-03-30,Retail
+CUST00757,Isaac Gill,Male,55,Delhi,Delhi,North,2021-04-09,Retail
+CUST00758,Devansh Goel,Male,65,Chennai,Tamil Nadu,South,2023-05-16,Retail
+CUST00759,Amol Gopal,Male,36,Pune,Maharashtra,West,2022-08-12,Retail
+CUST00760,Damini Taneja,Female,50,Surat,Gujarat,West,2019-11-05,Retail
+CUST00761,Jagat Palan,Male,63,Chennai,Tamil Nadu,South,2024-11-22,Premium
+CUST00762,Chaitanya Nayak,Male,21,Surat,Gujarat,West,2021-09-05,Premium
+CUST00763,Henry Krish,Male,52,Jaipur,Rajasthan,North,2023-02-27,Corporate
+CUST00764,Lavanya Chokshi,Female,44,Jaipur,Rajasthan,North,2023-04-28,Retail
+CUST00765,Sanya Sarma,Female,22,Surat,Gujarat,West,2023-05-25,Retail
+CUST00766,Triveni Tailor,Female,54,Bengaluru,Karnataka,South,2024-04-15,Retail
+CUST00767,Raghav Chaudhuri,Male,50,Guwahati,Assam,East,2023-12-21,Retail
+CUST00768,Finn Seth,Male,57,Guwahati,Assam,East,2019-06-11,Retail
+CUST00769,Manan Bahri,Male,27,Bengaluru,Karnataka,South,2020-11-29,Premium
+CUST00770,Balhaar Oommen,Male,53,Chandigarh,Punjab,North,2020-01-08,Retail
+CUST00771,Faris Borde,Male,23,Chandigarh,Punjab,North,2022-04-13,Retail
+CUST00772,Pallavi Subramanian,Female,32,Delhi,Delhi,North,2023-03-24,Corporate
+CUST00773,Fitan Saraf,Male,62,Indore,Madhya Pradesh,Central,2019-12-11,Retail
+CUST00774,Oni Jha,Female,47,Chandigarh,Punjab,North,2024-11-04,Premium
+CUST00775,Libni Manda,Female,25,Bengaluru,Karnataka,South,2020-10-13,Retail
+CUST00776,Aryan Ramaswamy,Male,64,Nagpur,Maharashtra,West,2022-06-06,Premium
+CUST00777,Faraj Bhagat,Male,54,Chandigarh,Punjab,North,2021-03-01,Corporate
+CUST00778,Chameli Menon,Female,50,Ahmedabad,Gujarat,West,2023-12-11,Premium
+CUST00779,Irya Chatterjee,Female,26,Hyderabad,Telangana,South,2019-02-26,Retail
+CUST00780,Madhav Bumb,Male,33,Kochi,Kerala,South,2021-11-03,Retail
+CUST00781,Nikita Rao,Female,36,Raipur,Chhattisgarh,Central,2021-10-28,Retail
+CUST00782,Chandani Ram,Female,55,Lucknow,Uttar Pradesh,North,2020-02-10,Premium
+CUST00783,Qasim Grover,Male,21,Delhi,Delhi,North,2021-09-03,Corporate
+CUST00784,Thomas Shroff,Male,55,Chandigarh,Punjab,North,2020-07-31,Retail
+CUST00785,Azaan Dora,Male,21,Hyderabad,Telangana,South,2023-07-07,Premium
+CUST00786,Chaman Padmanabhan,Female,27,Chennai,Tamil Nadu,South,2023-11-06,Retail
+CUST00787,Ishaan Bhat,Male,52,Patna,Bihar,East,2024-01-17,Corporate
+CUST00788,Wazir Keer,Male,26,Bengaluru,Karnataka,South,2021-11-09,Retail
+CUST00789,Rudra Banerjee,Male,47,Nagpur,Maharashtra,West,2022-01-05,Premium
+CUST00790,Dipta Sen,Female,26,Bhubaneswar,Odisha,East,2020-01-14,Retail
+CUST00791,Hitesh Hans,Male,25,Kolkata,West Bengal,East,2019-10-04,Retail
+CUST00792,Balveer Saran,Male,63,Patna,Bihar,East,2020-03-18,Corporate
+CUST00793,Kai Nagarajan,Male,37,Chennai,Tamil Nadu,South,2024-06-18,Premium
+CUST00794,Chameli Rama,Female,41,Hyderabad,Telangana,South,2022-05-03,Retail
+CUST00795,Lakshit Venkatesh,Male,33,Ahmedabad,Gujarat,West,2021-09-30,Retail
+CUST00796,Shaurya Chowdhury,Male,27,Delhi,Delhi,North,2021-06-27,Retail
+CUST00797,Daksha Cherian,Female,47,Hyderabad,Telangana,South,2022-05-17,Retail
+CUST00798,Mekhala Wason,Female,49,Lucknow,Uttar Pradesh,North,2024-04-12,Retail
+CUST00799,Libni Rajagopal,Female,26,Surat,Gujarat,West,2022-12-05,Retail
+CUST00800,Anjali Gera,Female,23,Raipur,Chhattisgarh,Central,2020-08-26,Retail
