@@ -1,0 +1,17 @@
+ProductID,ProductName,SubCategoryID
+PRD001,Savings Account,1
+PRD002,Current Account,1
+PRD003,Fixed Deposit,1
+PRD004,Recurring Deposit,1
+PRD005,UPI Wallet,2
+PRD006,Prepaid Card,2
+PRD007,Debit Card,2
+PRD008,Credit Card,3
+PRD009,Personal Loan,3
+PRD010,Home Loan,3
+PRD011,Auto Loan,3
+PRD012,Mutual Fund,4
+PRD013,SIP,4
+PRD014,Digital Gold,4
+PRD015,Term Insurance,5
+PRD016,Health Insurance,5
