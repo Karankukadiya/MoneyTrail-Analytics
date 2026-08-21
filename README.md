@@ -59,7 +59,7 @@ DimCustomer
 - `DimProductSubCategory` / `DimProductCategory` — product hierarchy
 - `DimCalendar` — full date table, 2023–2025, marked as the model's Date Table
 
-Full column-level detail is in [`DATA_DICTIONARY.md`](./DATA_DICTIONARY.md).
+Full column-level detail is in [`DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md).
 
 **Relationship notes:**
 - All Dim → Fact relationships are 1-to-many, single direction.
@@ -68,7 +68,7 @@ Full column-level detail is in [`DATA_DICTIONARY.md`](./DATA_DICTIONARY.md).
   relationship to a date table can be active at a time. These are
   invoked on demand using `USERELATIONSHIP()` inside the
   `Accounts Opened` / `Accounts Closed` measures. See
-  [`DAX_MEASURES.md`](./DAX_MEASURES.md).
+  [`DAX_MEASURES.md`](docs/DAX_MEASURES.md).
 - `DimProductCategory ↔ DimProductSubCategory` is 1:1 in this dataset, so
   Power BI requires "Both" cross-filter direction — not a modeling error,
   it's the only valid option for 1:1 cardinality.
@@ -113,7 +113,7 @@ All pages use button-based page navigation and a synced Year slicer.
 
 ## 6. Key Insights
 
-*(Full detail with supporting tables in [`INSIGHTS.md`](./INSIGHTS.md))*
+*(Full detail with supporting tables in [`INSIGHTS.md`](docs/INSIGHTS.md))*
 
 - **Total Balance is +₹2.93M** (Inflows ₹176.44M vs Outflows ₹173.50M) —
   a modest net-positive position, with a 92.96% transaction success rate.
